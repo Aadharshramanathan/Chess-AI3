@@ -1,0 +1,15 @@
+CorrelationId: b305a163-dafc-4a29-8478-a0bc8e2adc52
+UTC DateTime: 28-07-2022 03:56:06
+
+The following files/folders have not been downloaded
+0. Chess-ai/venv/Lib/site-packages/importlib_metadata-4.11.3.dist-info/INSTALLER
+1. Chess-ai/venv/Lib/site-packages/importlib_metadata-4.11.3.dist-info/LICENSE
+2. Chess-ai/venv/Lib/site-packages/importlib_metadata-4.11.3.dist-info/METADATA
+3. Chess-ai/venv/Lib/site-packages/tornado/test/__pycache__
+4. Chess-ai/venv/Lib/site-packages/tornado/test/csv_translations
+5. Chess-ai/venv/Lib/site-packages/tornado/test/gettext_translations
+6. Chess-ai/venv/Lib/site-packages/tornado/test/static
+7. Chess-ai/venv/Lib/site-packages/tornado/test/templates
+8. Chess-ai/venv/Lib/site-packages
+9. Chess-ai/venv/Scripts
+10. Chess-ai/venv/share
